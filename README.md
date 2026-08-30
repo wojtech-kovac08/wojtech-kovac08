@@ -1,11 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-###
-
-<p align="left">Hi there 👋 I'm Vojta<br><br>🔭 I’m currently working on Nothing :)<br>👯 I’m looking to collaborate on cool self-hosted projects<br>🤝 I’m looking for help with learning DevOps & programming<br>🌱 I’m currently learning IT, programming, and self-hosted infrastructure<br><br>🐳 DevOps & Infrastructure<br>- Proxmox VE (virtualization & homelab)<br>- Docker & Docker Compose<br>- Linux server management<br>- CI/CD basics (GitHub Actions)<br>- Cloudflare networking<br><br>🏠 Self-hosting / Projects<br>- Home Assistant<br>- Synology NAS<br>- Personal web apps</p>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img width="12" />
